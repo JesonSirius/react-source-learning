@@ -11,10 +11,10 @@
 ```
 react-source-learning/
 ├── notes/          # 学习笔记
-│   └── week1/     # 第一周笔记
 ├── code-examples/  # 代码示例
 ├── docs/          # 文档和架构图
-└── chat-history/  # 学习讨论记录
+├── chat-history/  # 学习讨论记录
+└── react-source/  # React 源码(submodule)
 ```
 
 ## 学习资源
